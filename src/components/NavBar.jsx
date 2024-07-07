@@ -13,7 +13,7 @@ const NavBar = ({ onFilterChange }) => {
 
   return (
     <nav>
-      <Link to="/">Home</Link>
+      <Link to="/">Articles-R-Us</Link>
       <select value={country} onChange={handleFilterChange} className="country-filter">
         <option value="us">United States</option>
         <option value="gb">United Kingdom</option>
