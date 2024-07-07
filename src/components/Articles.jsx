@@ -1,19 +1,19 @@
 import React, { useEffect, useState } from 'react';
 import { fetchTopHeadlines } from '../APIcalls';
 import ArticleCard from './ArticleCard';
-import './Articles.css'
+import './Articles.css';
 
-const Articles = () => {
+const Articles = ({ country }) => {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
     const getArticles = async () => {
-      const articlesData = await fetchTopHeadlines();
+      const articlesData = await fetchTopHeadlines(country);
       setArticles(articlesData);
     };
 
     getArticles();
-  }, []);
+  }, [country]);
 
   return (
     <div className="articles">

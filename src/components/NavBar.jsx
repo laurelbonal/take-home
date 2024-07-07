@@ -20,7 +20,6 @@ const NavBar = ({ onFilterChange }) => {
         <option value="ca">Canada</option>
         <option value="au">Australia</option>
         <option value="de">Germany</option>
-        <!-- Add more countries as needed -->
       </select>
     </nav>
   );

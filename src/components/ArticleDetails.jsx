@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation, Link } from 'react-router-dom';
-import './ArticleDetails.css'
+import './ArticleDetails.css';
 
 const ArticleDetail = () => {
   const location = useLocation();
@@ -11,7 +11,7 @@ const ArticleDetail = () => {
   }
 
   return (
-    <div>
+    <div className="article-detail">
       <h1>{article.title}</h1>
       {article.urlToImage && <img src={article.urlToImage} alt={article.title} />}
       <p>{new Date(article.publishedAt).toLocaleDateString()}</p>
