@@ -1,0 +1,30 @@
+.article-detail {
+    padding: 16px;
+  }
+  
+  .article-detail img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .article-detail h1 {
+    font-size: 2em;
+    margin-bottom: 16px;
+  }
+  
+  .article-detail p {
+    margin-bottom: 16px;
+  }
+  
+  .article-detail a {
+    display: inline-block;
+    margin-right: 16px;
+    color: #1a73e8;
+    text-decoration: none;
+  }
+  
+  .article-detail a:hover {
+    text-decoration: underline;
+  }

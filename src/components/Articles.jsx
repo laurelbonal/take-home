@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
-import { fetchTopHeadlines } from '../APIcalls'; // Correct path to APIcalls.js
+import { fetchTopHeadlines } from '../APIcalls';
 import ArticleCard from './ArticleCard';
+import './Articles.css'
 
 const Articles = () => {
   const [articles, setArticles] = useState([]);
