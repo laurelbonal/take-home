@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+  {
+  "source": {
+  "id": "the-washington-post",
+  "name": "The Washington Post"
+  },
+  "author": "Azi Paybarah",
+  "title": "Biden campaign gave questions to radio host before interview - The Washington Post - The Washington Post",
+  "description": "The campaign has been criticized for heavily controlling the president’s public appearances to minimize potential gaffes.",
+  "url": "https://www.washingtonpost.com/politics/2024/07/06/biden-radio-show-gaffes/",
+  "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C5I4DMWXILUWNWAUV2ZL7HFAZA_size-normalized.JPG&w=1440",
+  "publishedAt": "2024-07-06T23:43:31Z",
+  "content": "Two radio hosts said Saturday they weresupplied questions from aides to President Biden before separate interviews with him this week, a move that a campaign spokeswoman defended as routine.\r\nIts not… [+4094 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "KSAT San Antonio"
+  },
+  "author": "Spencer Heath, Nate Kotisso, Associated Press, Ross Mashburn",
+  "title": "Texas counties issue mandatory, voluntary evacuations as Beryl targets coast - KSAT San Antonio",
+  "description": "As Beryl is expected to land on the Texas coast early next week, many counties have started issuing mandatory and voluntary evacuations.",
+  "url": "https://www.ksat.com/news/local/2024/07/06/texas-coastal-counties-issue-mandatory-voluntary-evacuations-as-beryl-targets-coast/",
+  "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/XS4BEQKZFJAKJE2WFTO2DCDWVE.jpg?_a=ATAPphC0",
+  "publishedAt": "2024-07-06T23:18:25Z",
+  "content": "As Beryl is expected to land on the Texas coast Monday morning, several counties have begun issuing mandatory and voluntary evacuation orders.\r\nBeryl previously made landfall Friday in the Yucatan Pe… [+3682 chars]"
+  },
+  {
+  "source": {
+  "id": "cnn",
+  "name": "CNN"
+  },
+  "author": "Eyad Kourdi, Kareem El Damanhoury, Lauren Izso",
+  "title": "Israeli attack kills at least 16 at UNWRA school for the displaced in Gaza, ministry says - CNN",
+  "description": "The Israeli military says militants were operating in the area. A displaced man at the school says children are among the injured.",
+  "url": "https://www.cnn.com/2024/07/06/middleeast/israeli-attack-unwra-school-gaza-intl-latam/index.html",
+  "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2160282494.jpg?c=16x9&q=w_800,c_fill",
+  "publishedAt": "2024-07-06T23:11:00Z",
+  "content": "An Israeli attack has killed at least 16 Palestinians and injured 50 others at UNRWAs Al-Jaouni school sheltering displaced people in al-Nuseirat camp in central Gaza, the Palestinian Ministry of Hea… [+3250 chars]"
+  },
+  {
+  "source": {
+  "id": "fox-news",
+  "name": "Fox News"
+  },
+  "author": "Melissa Rudy",
+  "title": "Alzheimer’s on mother’s side of the family could increase disease risk, study finds - Fox News",
+  "description": "Having a mother with Alzheimer’s could lead to a higher risk of inherited disease than a paternal history, according to a recent study from Mass General Brigham. Researchers and doctors explain.",
+  "url": "https://www.foxnews.com/health/alzheimers-mothers-side-family-could-increase-disease-risk-study-finds",
+  "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/07/mother-alzheimers.jpg",
+  "publishedAt": "2024-07-06T23:05:00Z",
+  "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu… [+5912 chars]"
+  },
+  {
+  "source": {
+  "id": "espn",
+  "name": "ESPN"
+  },
+  "author": "Dave McMenamin",
+  "title": "Bronny James has 4 points in summer league debut for Lakers - ESPN",
+  "description": "Wearing jersey No. 9, Bronny James took his place in the Lakers' starting lineup and finished 2-of-9 for four points in his NBA summer league debut Saturday.",
+  "url": "https://www.espn.com/nba/story/_/id/40509590/bronny-james-4-points-summer-league-debut-lakers",
+  "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0706%2Fr1355481_1296x729_16%2D9.jpg",
+  "publishedAt": "2024-07-06T23:00:00Z",
+  "content": "SAN FRANCISCO -- Bronny James made his NBA summer league debut Saturday and was surprised by the warm reception in the city where his father played some of his fiercest NBA Finals battles.\r\n\"The atmo… [+4888 chars]"
+  },
+  {
+  "source": {
+  "id": null,
+  "name": "Houston Chronicle"
+  },
+  "author": "Houston Chronicle ",
+  "title": "Forecast track: Beryl to make Texas landfall Monday as hurricane - Houston Chronicle ",
+  "description": null,
+  "url": "https://www.houstonchronicle.com/news/houston-weather/hurricanes/article/beryl-texas-hurricane-path-landfall-gulf-coast-19557663.php",
+  "urlToImage": null,
+  "publishedAt": "2024-07-06T22:58:35Z",
+  "content": null
+  }
+  ]
+}
